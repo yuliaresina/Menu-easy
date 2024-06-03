@@ -1,0 +1,16 @@
+
+nav {
+    max-width: 1000px;
+    height: 4rem;
+    background: rgb(202, 199, 199);
+    display: flex;
+}
+
+nav a {
+
+    color: rgb(53, 51, 51);
+    flex: 12;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
